@@ -20,10 +20,10 @@
 The site is currently down. So you cannot try the web application by yourself. But however, you can watch [this youtube video](https://www.youtube.com/watch?v=A6L7rqu0yIA) which shows our DEMO of the application.
 
 ## Pre-trained checkpoints
-* Under [./paint/ml/image_synthesis](./paint/ml/image_synthesis), paste the `checkpoints` folder from [here](https://drive.google.com/drive/folders/1sTb4oaUNwHhaMGYKKEIeOWyFjHrdTtCY?usp=sharing)
-* Under [./paint/ml/style_branch/custom_style](./paint/ml/style_branch/custom_style), paste the `models` folder from [here](https://drive.google.com/drive/folders/1L78y_VpRI9GwmqWFHi6s9c2SAVo7iOnu?usp=sharing)
-* Under [./paint/ml/style_branch/style_gen](./paint/ml/style_branch/style_gen), paste the `checkpoints` folder from [here](https://drive.google.com/drive/folders/1-luJLtKz0fMguG_HEJY9CBS8fUfCroyO?usp=sharing)
-* Under [./paint/ml/style_branch/variation_gen](./paint/ml/style_branch/variation_gen), paste the `checkpoints` folder from [here](https://drive.google.com/drive/folders/1hBvASyPw1bBm9XsdYrXZDpjD7Zxvpedb?usp=sharing)
+* Under [./paint/ml/image_synthesis](./paint/ml/image_synthesis), paste the `checkpoints` folder from [here](https://drive.google.com/drive/folders/1EO5UDBFFyw6y5vdXPshr5xCMlpkp6xy1?usp=sharing)
+* Under [./paint/ml/style_branch/custom_style](./paint/ml/style_branch/custom_style), paste the `models` folder from [here](https://drive.google.com/drive/folders/1RFVAOL2YSXEVY1yoqY_IUP7JUwpbIZiR?usp=sharing)
+* Under [./paint/ml/style_branch/style_gen](./paint/ml/style_branch/style_gen), paste the `checkpoints` folder from [here](https://drive.google.com/drive/folders/192zNcoc8qdajJ6WiIh_Jd0K801bCSVXt?usp=sharing)
+* Under [./paint/ml/style_branch/variation_gen](./paint/ml/style_branch/variation_gen), paste the `checkpoints` folder from [here](https://drive.google.com/drive/folders/1Rr1nSo7yxNWr14WT5Hs4qIjSvv0w5sX4?usp=sharing)
 
 ## Usage
 * Deploy the backend to a server with a unix based shell that supports "&&" to chain two commands together and has an NVIDIA GPU attached.
