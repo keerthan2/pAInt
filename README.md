@@ -1,6 +1,6 @@
 # pAInt
 
-![image](figs/homepage.jpg)
+![image](./figs/homepage.jpg)
 
 
 ## About
